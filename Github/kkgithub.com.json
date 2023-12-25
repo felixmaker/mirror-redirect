@@ -1,0 +1,23 @@
+{
+    "createdBy": "Redirector v3.5.4",
+    "createdAt": "2023-12-25T01:24:14.883Z",
+    "redirects": [
+        {
+            "description": "[Github] kkgithub.com",
+            "exampleUrl": "https://github.com/felixmaker/ugdown",
+            "exampleResult": "https://kkgithub.com/felixmaker/ugdown",
+            "error": null,
+            "includePattern": "https://github.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://kkgithub.com/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": true,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}
