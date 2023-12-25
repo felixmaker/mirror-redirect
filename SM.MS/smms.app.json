@@ -1,0 +1,23 @@
+{
+    "createdBy": "Redirector v3.5.4",
+    "createdAt": "2023-12-25T01:24:14.883Z",
+    "redirects": [
+        {
+            "description": "[SM.MS] smms.app",
+            "exampleUrl": "https://sm.ms/home/",
+            "exampleResult": "https://smms.app/home/",
+            "error": null,
+            "includePattern": "https://sm.ms/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://smms.app/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": true,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}
